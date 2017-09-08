@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 58abd0606e114e6468a7a6011e31ce69
+timeCreated: 1479134379
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box067
+    100004: Object077
+    100006: Plane001
+    100008: Plane002
+    100010: Handles_LP
+    100012: Drawer1
+    100014: Drawer2
+    100016: Object080
+    100018: Object081
+    100020: Door
+    100022: Door001
+    100024: Door002
+    100026: Door003
+    100028: Drawer003
+    100030: Drawer004
+    100032: Cabinet2
+    400000: //RootNode
+    400002: Box067
+    400004: Object077
+    400006: Plane001
+    400008: Plane002
+    400010: Handles_LP
+    400012: Drawer1
+    400014: Drawer2
+    400016: Object080
+    400018: Object081
+    400020: Door
+    400022: Door001
+    400024: Door002
+    400026: Door003
+    400028: Drawer003
+    400030: Drawer004
+    400032: Cabinet2
+    2300000: //RootNode
+    2300002: Box067
+    2300004: Object077
+    2300006: Plane001
+    2300008: Plane002
+    2300010: Handles_LP
+    2300012: Drawer1
+    2300014: Drawer2
+    2300016: Object080
+    2300018: Object081
+    2300020: Door
+    2300022: Door001
+    2300024: Door002
+    2300026: Door003
+    2300028: Drawer003
+    2300030: Drawer004
+    2300032: Cabinet2
+    3300000: //RootNode
+    3300002: Box067
+    3300004: Object077
+    3300006: Plane001
+    3300008: Plane002
+    3300010: Handles_LP
+    3300012: Drawer1
+    3300014: Drawer2
+    3300016: Object080
+    3300018: Object081
+    3300020: Door
+    3300022: Door001
+    3300024: Door002
+    3300026: Door003
+    3300028: Drawer003
+    3300030: Drawer004
+    3300032: Cabinet2
+    4300000: Box067
+    4300002: Object077
+    4300004: Plane001
+    4300006: Plane002
+    4300008: Handles_LP
+    4300010: Drawer1
+    4300012: Drawer2
+    4300014: Object080
+    4300016: Object081
+    4300018: Door001
+    4300020: Door
+    4300022: Door002
+    4300024: Drawer003
+    4300026: Drawer004
+    4300028: Door003
+    4300030: Cabinet2
+    6400000: Cabinet2
+    6400002: Door
+    6400004: Door001
+    6400006: Door002
+    6400008: Door003
+    6400010: Drawer003
+    6400012: Drawer004
+    6400014: Drawer1
+    6400016: Drawer2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.9
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

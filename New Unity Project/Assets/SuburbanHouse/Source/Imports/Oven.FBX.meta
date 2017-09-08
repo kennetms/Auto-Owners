@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 3dd084f6294c8284295d456393b4bbe9
+timeCreated: 1477044683
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cover
+    100002: Knob1
+    100004: Knob2
+    100006: Knob3
+    100008: Knob4
+    100010: Object002
+    100012: //RootNode
+    100014: Ovendoor
+    100016: Stove_Main_LP
+    100018: Tray1
+    100020: Tray2
+    400000: Cover
+    400002: Knob1
+    400004: Knob2
+    400006: Knob3
+    400008: Knob4
+    400010: Object002
+    400012: //RootNode
+    400014: Ovendoor
+    400016: Stove_Main_LP
+    400018: Tray1
+    400020: Tray2
+    2300000: Cover
+    2300002: Knob1
+    2300004: Knob2
+    2300006: Knob3
+    2300008: Knob4
+    2300010: Object002
+    2300012: Ovendoor
+    2300014: Stove_Main_LP
+    2300016: Tray1
+    2300018: Tray2
+    3300000: Cover
+    3300002: Knob1
+    3300004: Knob2
+    3300006: Knob3
+    3300008: Knob4
+    3300010: Object002
+    3300012: Ovendoor
+    3300014: Stove_Main_LP
+    3300016: Tray1
+    3300018: Tray2
+    4300000: Stove_Main_LP
+    4300002: Cover
+    4300004: Object002
+    4300006: Tray1
+    4300008: Tray2
+    4300010: Ovendoor
+    4300012: Knob1
+    4300014: Knob2
+    4300016: Knob3
+    4300018: Knob4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 2
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 45
+    secondaryUVPackMargin: 2
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

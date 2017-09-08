@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 4076047f10c75b7429b2fe402a660ca0
+timeCreated: 1485172977
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box272
+    100004: Object129
+    100006: Object130
+    100008: Object131
+    100010: Object132
+    100012: Object133
+    100014: Bbq_Top
+    100016: BarbecueGrill
+    100018: bbq_Door1
+    100020: Bbq_door2
+    100022: bbq_knob1
+    100024: bbq_knob2
+    100026: bbq_knob3
+    100028: bbq_knob4
+    100030: bbq_knob5
+    400000: //RootNode
+    400002: Box272
+    400004: Object129
+    400006: Object130
+    400008: Object131
+    400010: Object132
+    400012: Object133
+    400014: Bbq_Top
+    400016: BarbecueGrill
+    400018: bbq_Door1
+    400020: Bbq_door2
+    400022: bbq_knob1
+    400024: bbq_knob2
+    400026: bbq_knob3
+    400028: bbq_knob4
+    400030: bbq_knob5
+    2300000: Box272
+    2300002: Object129
+    2300004: Object130
+    2300006: Object131
+    2300008: Object132
+    2300010: Object133
+    2300012: Bbq_Top
+    2300014: BarbecueGrill
+    2300016: bbq_Door1
+    2300018: Bbq_door2
+    2300020: bbq_knob1
+    2300022: bbq_knob2
+    2300024: bbq_knob3
+    2300026: bbq_knob4
+    2300028: bbq_knob5
+    3300000: Box272
+    3300002: Object129
+    3300004: Object130
+    3300006: Object131
+    3300008: Object132
+    3300010: Object133
+    3300012: Bbq_Top
+    3300014: BarbecueGrill
+    3300016: bbq_Door1
+    3300018: Bbq_door2
+    3300020: bbq_knob1
+    3300022: bbq_knob2
+    3300024: bbq_knob3
+    3300026: bbq_knob4
+    3300028: bbq_knob5
+    4300000: Box272
+    4300002: Object129
+    4300004: Object130
+    4300006: Object131
+    4300008: Object132
+    4300010: Object133
+    4300012: Bbq_Top
+    4300014: BarbecueGrill
+    4300016: bbq_knob1
+    4300018: bbq_knob2
+    4300020: bbq_knob3
+    4300022: bbq_knob4
+    4300024: bbq_knob5
+    4300026: Bbq_door2
+    4300028: bbq_Door1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

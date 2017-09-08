@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: bef0c22c2137730428a7499a23fd113b
+timeCreated: 1481275629
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Counter_Merged_3units
+    100004: Door029
+    100006: Door030
+    100008: Door031
+    100010: Door032
+    100012: Door033
+    100014: Door034
+    100016: Door035
+    100018: Door036
+    100020: Door037
+    100022: Door038
+    100024: Door039
+    100026: Door040
+    100028: Drawer029
+    100030: Drawer030
+    100032: Drawer031
+    100034: Drawer032
+    100036: Drawer033
+    100038: Drawer034
+    100040: Drawer035
+    100042: Drawer036
+    100044: Drawer037
+    400000: //RootNode
+    400002: Counter_Merged_3units
+    400004: Door029
+    400006: Door030
+    400008: Door031
+    400010: Door032
+    400012: Door033
+    400014: Door034
+    400016: Door035
+    400018: Door036
+    400020: Door037
+    400022: Door038
+    400024: Door039
+    400026: Door040
+    400028: Drawer029
+    400030: Drawer030
+    400032: Drawer031
+    400034: Drawer032
+    400036: Drawer033
+    400038: Drawer034
+    400040: Drawer035
+    400042: Drawer036
+    400044: Drawer037
+    2300000: Counter_Merged_3units
+    2300002: Door029
+    2300004: Door030
+    2300006: Door031
+    2300008: Door032
+    2300010: Door033
+    2300012: Door034
+    2300014: Door035
+    2300016: Door036
+    2300018: Door037
+    2300020: Door038
+    2300022: Door039
+    2300024: Door040
+    2300026: Drawer029
+    2300028: Drawer030
+    2300030: Drawer031
+    2300032: Drawer032
+    2300034: Drawer033
+    2300036: Drawer034
+    2300038: Drawer035
+    2300040: Drawer036
+    2300042: Drawer037
+    3300000: Counter_Merged_3units
+    3300002: Door029
+    3300004: Door030
+    3300006: Door031
+    3300008: Door032
+    3300010: Door033
+    3300012: Door034
+    3300014: Door035
+    3300016: Door036
+    3300018: Door037
+    3300020: Door038
+    3300022: Door039
+    3300024: Door040
+    3300026: Drawer029
+    3300028: Drawer030
+    3300030: Drawer031
+    3300032: Drawer032
+    3300034: Drawer033
+    3300036: Drawer034
+    3300038: Drawer035
+    3300040: Drawer036
+    3300042: Drawer037
+    4300000: Door029
+    4300002: Door030
+    4300004: Door031
+    4300006: Door032
+    4300008: Drawer029
+    4300010: Drawer030
+    4300012: Counter_Merged_3units
+    4300014: Door033
+    4300016: Door034
+    4300018: Door035
+    4300020: Door036
+    4300022: Drawer031
+    4300024: Drawer032
+    4300026: Drawer033
+    4300028: Drawer034
+    4300030: Drawer035
+    4300032: Door037
+    4300034: Door038
+    4300036: Door039
+    4300038: Drawer036
+    4300040: Door040
+    4300042: Drawer037
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.31
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

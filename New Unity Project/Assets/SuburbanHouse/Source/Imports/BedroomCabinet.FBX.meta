@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 0cc04d7d4e90a1043affc56a42a0f712
+timeCreated: 1483983992
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BedroomCabinet
+    100004: Box156
+    100006: knob
+    100008: knob001
+    100010: knob002
+    100012: knob003
+    100014: knob004
+    100016: knob005
+    100018: knob006
+    100020: knob007
+    100022: knob008
+    100024: Plane010
+    100026: BC_Drawer1
+    100028: BC_Drawer2
+    100030: BC_Drawer3
+    100032: BC_Drawer4
+    100034: BC_Drawer5
+    100036: BC_Drawer6
+    100038: BC_Drawer7
+    100040: BC_Drawer8
+    100042: BC_Drawer9
+    400000: //RootNode
+    400002: BedroomCabinet
+    400004: Box156
+    400006: knob
+    400008: knob001
+    400010: knob002
+    400012: knob003
+    400014: knob004
+    400016: knob005
+    400018: knob006
+    400020: knob007
+    400022: knob008
+    400024: Plane010
+    400026: BC_Drawer1
+    400028: BC_Drawer2
+    400030: BC_Drawer3
+    400032: BC_Drawer4
+    400034: BC_Drawer5
+    400036: BC_Drawer6
+    400038: BC_Drawer7
+    400040: BC_Drawer8
+    400042: BC_Drawer9
+    2300000: BedroomCabinet
+    2300002: Box156
+    2300004: knob
+    2300006: knob001
+    2300008: knob002
+    2300010: knob003
+    2300012: knob004
+    2300014: knob005
+    2300016: knob006
+    2300018: knob007
+    2300020: knob008
+    2300022: Plane010
+    2300024: BC_Drawer1
+    2300026: BC_Drawer2
+    2300028: BC_Drawer3
+    2300030: BC_Drawer4
+    2300032: BC_Drawer5
+    2300034: BC_Drawer6
+    2300036: BC_Drawer7
+    2300038: BC_Drawer8
+    2300040: BC_Drawer9
+    3300000: BedroomCabinet
+    3300002: Box156
+    3300004: knob
+    3300006: knob001
+    3300008: knob002
+    3300010: knob003
+    3300012: knob004
+    3300014: knob005
+    3300016: knob006
+    3300018: knob007
+    3300020: knob008
+    3300022: Plane010
+    3300024: BC_Drawer1
+    3300026: BC_Drawer2
+    3300028: BC_Drawer3
+    3300030: BC_Drawer4
+    3300032: BC_Drawer5
+    3300034: BC_Drawer6
+    3300036: BC_Drawer7
+    3300038: BC_Drawer8
+    3300040: BC_Drawer9
+    4300000: Box156
+    4300002: Plane010
+    4300004: knob
+    4300006: BedroomCabinet
+    4300008: knob001
+    4300010: knob002
+    4300012: knob003
+    4300014: knob004
+    4300016: knob005
+    4300018: knob006
+    4300020: knob007
+    4300022: knob008
+    4300024: BC_Drawer1
+    4300026: BC_Drawer2
+    4300028: BC_Drawer3
+    4300030: BC_Drawer4
+    4300032: BC_Drawer5
+    4300034: BC_Drawer6
+    4300036: BC_Drawer7
+    4300038: BC_Drawer8
+    4300040: BC_Drawer9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

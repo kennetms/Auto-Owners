@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 53c3dcf3aec47554784bba44d0f9fc2f
+timeCreated: 1481727623
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box107
+    100002: Box108
+    100004: Box109
+    100006: Box110
+    100008: Box111
+    100010: Box112
+    100012: Box113
+    100014: //RootNode
+    100016: Object092
+    100018: Object093
+    100020: Object094
+    100022: Door
+    100024: Door 1
+    100026: Hall_Cabinet
+    400000: Box107
+    400002: Box108
+    400004: Box109
+    400006: Box110
+    400008: Box111
+    400010: Box112
+    400012: Box113
+    400014: //RootNode
+    400016: Object092
+    400018: Object093
+    400020: Object094
+    400022: Door
+    400024: Door 1
+    400026: Hall_Cabinet
+    2300000: Box107
+    2300002: Box108
+    2300004: Box109
+    2300006: Box110
+    2300008: Box111
+    2300010: Box112
+    2300012: Box113
+    2300014: Object092
+    2300016: Object093
+    2300018: Object094
+    2300020: Door
+    2300022: Door 1
+    2300024: Hall_Cabinet
+    3300000: Box107
+    3300002: Box108
+    3300004: Box109
+    3300006: Box110
+    3300008: Box111
+    3300010: Box112
+    3300012: Box113
+    3300014: Object092
+    3300016: Object093
+    3300018: Object094
+    3300020: Door
+    3300022: Door 1
+    3300024: Hall_Cabinet
+    4300000: Box107
+    4300002: Box108
+    4300004: Box109
+    4300006: Box110
+    4300008: Box111
+    4300010: Box112
+    4300012: Object092
+    4300014: Object093
+    4300016: Box113
+    4300018: Object094
+    4300020: Hall_Cabinet
+    4300022: Door
+    4300024: Door
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.9
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
