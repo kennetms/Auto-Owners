@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MainMenuAutoOwners.unity
+- path: Assets/USETHISONE.unity
   isLoaded: 1
   isActive: 1
